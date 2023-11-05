@@ -1,4 +1,4 @@
-Hey this is me Umer Faisal and this is my Word Counter
+Hey this is me Umer Faisal and this is my TODO Project :)
 
 Commands used in it:
 
